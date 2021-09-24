@@ -1,0 +1,17 @@
+[Version]
+2
+[Author]
+BayKadir
+[Mesh Cells]
+
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Unknown
+[Comment]

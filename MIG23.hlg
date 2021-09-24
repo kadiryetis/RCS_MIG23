@@ -1,0 +1,97 @@
+--------------------------------------------------------------------------------
+Translator Name    : Spatial InterOp Connect ( Version : 25 0 2)
+System Name        : Windows_NT
+Machine Name       : LAPTOP-G286RHOM
+User Name          : BayKadir
+Source System      : ACIS
+Destination System : STEP
+Input File         : C:\Users\BayKadir\Desktop\1920BYY\Radar\MIG-23\MIG23.sat
+Output File        : C:\Users\BayKadir\Desktop\1920BYY\Radar\MIG-23\MIG23.stp
+Start Time         : Mon Jun 08 21:44:32 2020
+
+--------------------------------------------------------------------------------
+Message : === Translation Options ===
+Message : IGES.Writer.TranslateSolidSheets : true
+Message : IGES.TrimCurveWritePreference  : 3
+Message : TranslateAttributes : true
+Message : IGES.Writer.ConvertAnalyticalSurfacesAndCurvesToSpline : false
+Message : ProgramName : CST ACIS InterOp Converter 2016
+Message : AuthorName : BayKadir
+Message : ===========================
+-------------------------Source File Header Information-------------------------
+Modification Date        : 08 Jun 2020
+File Name                : MIG23.sat
+Organization             : CST MICROWAVE STUDIO
+Version                  : 2500
+Units                    : METER
+Tolerance                : 0,000001
+Document Type            : Part
+Format Type              : ACIS
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Source Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start BRep
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End BRep
+------------------------Representation Conversion Summary-----------------------
+No. of Solid Bodies                       :    3
+No. of Wire Bodies                        :    0
+No. of Curve Sets                         :    0
+No. of Geometric Sets                     :    0
+No. of Sheet Bodies                       :    0
+--------------------------------------------------------------------------------
+BRep Conversion Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start DocumentFeature
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Preprocessing Result : No Entity to Translate
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End DocumentFeature
+------------------------Representation Conversion Summary-----------------------
+No. of Selection Sets                     :    0
+--------------------------------------------------------------------------------
+DocumentFeature Conversion Result : No Entity to Translate
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------Document Conversion Summary--------------------------
+No. of Items of DocumentFeature Representation :    0
+No. of Items of BRep Representation            :    3
+--------------------------------------------------------------------------------
+Output File "C:\Users\BayKadir\Desktop\1920BYY\Radar\MIG-23\MIG23.stp" is Successfully Written
+--------------------------------------------------------------------------------
+Finish Time : Mon Jun 08 21:44:33 2020
+
+--------------------------------------------------------------------------------
+Translation Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
